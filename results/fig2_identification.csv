@@ -1,0 +1,21 @@
+n,method,id_error_mean,id_error_std
+0,Random probes,0.4960,0.0290
+1,Random probes,0.3760,0.0280
+2,Random probes,0.2910,0.0250
+3,Random probes,0.2020,0.0210
+4,Random probes,0.1650,0.0200
+5,Random probes,0.1200,0.0180
+6,Random probes,0.0860,0.0170
+8,Random probes,0.0500,0.0140
+10,Random probes,0.0470,0.0110
+12,Random probes,0.0460,0.0110
+0,OED probes,0.4960,0.0280
+1,OED probes,0.3310,0.0260
+2,OED probes,0.2470,0.0230
+3,OED probes,0.1660,0.0190
+4,OED probes,0.1050,0.0170
+5,OED probes,0.0750,0.0140
+6,OED probes,0.0510,0.0140
+8,OED probes,0.0270,0.0110
+10,OED probes,0.0210,0.0080
+12,OED probes,0.0220,0.0080

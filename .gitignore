@@ -51,8 +51,10 @@ venv.bak/
 data/
 tokenizer/
 examples/results.csv
-results/
+# Keep the committed reference CSVs in results/, but ignore freshly generated runs
 results_*/
+results/*.json
+results/summary.csv
 *.h5
 *.pkl
 *.pt
