@@ -6,6 +6,7 @@ Reference implementation and benchmark for the paper
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![status](https://img.shields.io/badge/status-research%20code-orange)
+[![DOI](https://zenodo.org/badge/1295712945.svg)](https://doi.org/10.5281/zenodo.21284811)
 
 **Topics:** `compositional-generalization` · `identifiability` · `causal-inference` ·
 `interventions` · `optimal-experimental-design` · `active-learning` · `offline-rl` ·
